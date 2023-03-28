@@ -75,19 +75,74 @@ body {
 #cover-text h1 {
     font-size: 80px;
     font-weight: 900;
+    text-transform: uppercase;
     margin: 10px;
 }
 
 #cover-text h2 {
-    font-size: 30px;
+    font-size: 20px;
+    font-weight: 600;
+    text-transform: uppercase;
     margin: 10px;
 }
 
 #cover-text p {
-    font-size: medium;
+    font-size: 15px;
+    font-weight: 200;
     color: white;
     margin: 5px;
 }
+
+/* preview-boxes*/
+#preview-box div {
+    width: 300px;
+    height: 300px;
+    padding: 3% 3%;
+    border-radius: 70%;
+    background-color: rgba(0, 0, 0, .9);
+    position: absolute;
+    text-align: center;
+}
+
+#history {
+    display: inline-block;
+    top: 80%;
+    left: 20%;
+}
+
+#favorites {
+    display: inline-block;
+    top: 80%;
+    right: 20%;
+}
+
+#history h3, #favorites h3 {
+    font-size: medium;
+    font-weight: 600;
+    margin: 10px;
+    padding: 10px;
+}
+
+#history p, #favorites p {
+    font-size: small;
+    font-weight: 400;
+    line-height: 25px;
+    color: white;
+    margin: 20px;
+}
+
+#history a, #favorites a {
+    width: 40px;
+    height: 20px;
+    color: white;
+    font-weight: bold;
+    background-color: red;
+    border: 2px solid red;
+}
+
+    
+
+
 
 /* footer*/
 footer {
