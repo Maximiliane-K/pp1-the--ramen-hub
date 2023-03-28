@@ -52,6 +52,35 @@ body {
     background: url('../images/hero-image.webp');
 }
 
+#cover-text {
+    width: 700px;
+    height: 300px;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, .8);
+
+    text-align: center;
+    top: 30%;
+    left: 30%;
+    position: absolute;
+}
+
+#cover-text h1 {
+    font-size: 80px;
+    font-weight: 900;
+    margin: 10px;
+}
+
+#cover-text h2 {
+    font-size: 30px;
+    margin: 10px;
+}
+
+#cover-text p {
+    font-size: medium;
+    color: white;
+    margin: 5px;
+}
+
 /* footer*/
 footer {
     background-color: black;
@@ -74,4 +103,5 @@ footer {
 
 footer p {
     text-align: center;
+    padding: 0.5%;
 }
