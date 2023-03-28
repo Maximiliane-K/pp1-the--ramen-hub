@@ -45,6 +45,13 @@ body {
     text-decoration: none;
 }
 
+/* hero image*/
+#hero-image {
+    height: 1400px;
+    width: 100%;
+    background: url('../images/hero-image.webp');
+}
+
 /* footer*/
 footer {
     background-color: black;
