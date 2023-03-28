@@ -166,3 +166,27 @@ footer p {
     text-align: center;
     padding: 0.5%;
 }
+
+/* media queries*/
+
+/* for larger to medium screens sizes from 1300px and down*/
+@media screen and (max-width: 1300px) {
+    #cover-text {
+        width: 500px;
+        height: 300px;
+    }
+
+    #cover-text h1 {
+        font-size: 60px;
+    }
+
+    #preview-box div {
+        width: 250px;
+        height: 350px;
+        border-radius: 40%;
+    }
+
+    #history, #favorites {
+        right: 10%;
+    }
+}
