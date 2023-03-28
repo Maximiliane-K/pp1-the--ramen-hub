@@ -14,6 +14,11 @@ body {
 }
 
 /* logo and home-button*/
+#header-background {
+    background-color: black;
+    width: 100%;
+    height: 200px;
+}
 #logo {
     float: left;
     width: 200px;
@@ -25,9 +30,8 @@ body {
 #nav-bar {
     font-size: 18px;
     font-weight: 600;
-    background-color: black;
-    width: 100%;
-    height: 200px;
+    float: right;
+
 }
 
 #nav-bar, #logo {
@@ -169,7 +173,7 @@ footer p {
 
 /* media queries*/
 
-/* for larger to medium screens sizes from 1300px and down*/
+/* for larger to medium screen sizes from 1300px and down*/
 @media screen and (max-width: 1300px) {
     #cover-text {
         width: 500px;
@@ -190,3 +194,9 @@ footer p {
         right: 10%;
     }
 }
+
+/* for medium screen sizes from 950px wide and down*/
+@media screen and (max-width: 950px) {
+
+}
+
