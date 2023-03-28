@@ -45,6 +45,14 @@ body {
     text-decoration: none;
 }
 
+#nav-bar a:hover {
+    border-bottom: 3px solid red;
+}
+
+.active {
+    border-bottom: 3px solid red;
+}
+
 /* hero image*/
 #hero-image {
     height: 1400px;
