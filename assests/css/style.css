@@ -18,7 +18,6 @@ body {
     background-color: black;
     width: 100%;
     height: 200px;
-    position: fixed;
 }
 #logo {
     float: left;
@@ -58,7 +57,7 @@ body {
     border-bottom: 3px solid red;
 }
 
-/* hero image*/
+/* background image*/
 #background-image {
     background:
     url('../images/hero-image.webp')
@@ -149,15 +148,17 @@ body {
 }
 
 /* footer*/
-footer {
+#footer-container {
+    text-align: center;
     background-color: black;
-    height: 200px;
+    height: 150px;
     width: 100%;
+    position: absolute;
 }
 
-.social-media {
+/*.social-media {
     text-align: center;
-}
+}*/
 
 .social-media li {
     display: inline;
