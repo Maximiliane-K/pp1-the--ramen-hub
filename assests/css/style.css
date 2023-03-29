@@ -18,6 +18,7 @@ body {
     background-color: black;
     width: 100%;
     height: 200px;
+    position: fixed;
 }
 #logo {
     float: left;
@@ -39,7 +40,7 @@ body {
 }
 
 #nav-bar li {
-    float: right;
+    float: left;
     list-style-type: none;
     margin: 20px;
 }
@@ -58,10 +59,13 @@ body {
 }
 
 /* hero image*/
-#hero-image {
-    height: 1400px;
-    width: 100%;
-    background: url('../images/hero-image.webp');
+#background-image {
+    background:
+    url('../images/hero-image.webp')
+    center center
+    no-repeat
+    fixed;
+    height: 150vh;
 }
 
 #cover-text {
@@ -178,6 +182,7 @@ footer p {
     #cover-text {
         width: 500px;
         height: 300px;
+        left: 35%;
     }
 
     #cover-text h1 {
@@ -195,8 +200,4 @@ footer p {
     }
 }
 
-/* for medium screen sizes from 950px wide and down*/
-@media screen and (max-width: 950px) {
-
-}
 
