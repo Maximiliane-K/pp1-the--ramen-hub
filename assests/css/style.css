@@ -58,7 +58,12 @@ body {
 }
 
 /* background image*/
-
+.home-section {
+    background: url('../images/background-image.webp');
+    background-size: cover;
+    background-position: center;
+    height: 1200px;
+}
 
 #cover-text {
     width: 700px;
