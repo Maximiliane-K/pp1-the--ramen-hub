@@ -19,48 +19,36 @@
     <nav>
         <ul id="nav-bar">
             <li>
-                <a class="active" href="index.html">Home</a>
+                <a href="index.html">Home</a>
             </li>
             <li>
                 <a href="#">The Ramen Hubs Favorites</a>
             </li>
             <li>
-                <a href="connect-with-us.html">Connect with us</a>
+                <a class="active" href="connect-with-us.html">Connect with us</a>
             </li>
         </ul>
     </nav>
 </header>
-    <!--background image and cover-text-->
+    <!--background image-->
     <div id="background-image"></div>
+    <!--form section-->
     <section>
-        <div id="cover-text">
-            <h1>いらっしゃいませ </h1>
-            <h2>Welcome to the Ramen Hub!</h2>
-            <p>
-                Since years I have been a Ramen enthusiast, trying this rich and tasty bowl of pure umami  - ま味, whenever there is a good spot nearby.<br>
-                At The Ramen Hub you can find everything you need to know about Ramen and where to get some. From Michelin starred to the 24/7 Ichiran spot.
-            </p>
-        </div>
+        <from method="POST" action="https://formdump.codeinstitute.net">
+            <h1>Send us your favorite Ramen spot no matter where it may be and let’s grow the hub together!</h1>
+
+            <label for="full-name">Full Name</label>
+            <input class="text-input" id="full-name" name="full_name" type="text" placeholder="Enter your full Name" required>
+            <label for="email">Email Address</label>
+            <input class="text-input" type="email" id="email" name="email_address" placeholder="Enter your Email Address" required>
+
+            <textarea name="text-box" id="text-box" placeholder="Please enter the Name and Location of your favorite Ramen shop.Arigatō - ありがとう" rows="20" cols="60"></textarea>
+
+            <input class="submit" type="submit">
+
+        </from>
     </section>
-    <!--preview-boxes-->
-    <section id="preview-box">
-        <div id="favorites">
-            <h3>The Ramen Hubs Favorites</h3>
-            <p>
-                Are you overwhelmed with the endless options of Ramen Shops in Tokyo?<br>
-                Look no further we listed our favorites for you! <br>
-            </p>
-            <a href="#">read more</a>
-        </div>
-            <div id="contact">
-                <h3>Connect with us</h3>
-                <p>
-                    Do you have a favorite ramen spot in your city?<br>
-                    Send us a message and let's grow the hub together.
-                </p>
-                <a href="#">contact us</a>
-            </div>
-    </section>
+    
     <!--footer with social media links-->
     <footer>
     <div id="footer-container">
