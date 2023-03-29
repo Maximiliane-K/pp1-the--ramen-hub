@@ -30,22 +30,21 @@
         </ul>
     </nav>
 </header>
-    <!--background image-->
-    <div id="background-image"></div>
+    
     <!--form section-->
-    <section>
-        <from method="POST" action="https://formdump.codeinstitute.net">
-            <h1>Send us your favorite Ramen spot no matter where it may be and let’s grow the hub together!</h1>
+    <section class="form-section">
+        <from method="POST" action="https://formdump.codeinstitute.net//" class="contact-form">
+            <h1>Send us your favorite Ramen spot and let’s grow the hub!</h1>
 
-            <label for="full-name">Full Name</label>
+            <label for="full-name">Name</label>
             <input class="text-input" id="full-name" name="full_name" type="text" placeholder="Enter your full Name" required>
-            <label for="email">Email Address</label>
+            <label for="email">Email</label>
             <input class="text-input" type="email" id="email" name="email_address" placeholder="Enter your Email Address" required>
 
-            <textarea name="text-box" id="text-box" placeholder="Please enter the Name and Location of your favorite Ramen shop.Arigatō - ありがとう" rows="20" cols="60"></textarea>
+            <label for="personal-favorite">Enter details here:</label>
+            <textarea name="text-box" placeholder="Please enter the Name and Location of your favorite Ramen shop. Arigatō - ありがとう" rows="20" cols="60"></textarea>
 
             <input class="submit" type="submit">
-
         </from>
     </section>
     
