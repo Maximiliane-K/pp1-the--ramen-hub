@@ -201,4 +201,45 @@ footer p {
     }
 }
 
+/* for medium screen sizes from 950px wide and down*/
+@media screen and (max-width: 950px) {
+    #logo {
+        width: 150px;
+        height: 150px;
+        margin: 3px;
+        padding: 0;
+    }
+
+    #nav-bar {
+        font-size: 15px;
+        float: left;
+        clear: left;
+        line-height: 3px;
+        padding: 0;
+    }
+
+    #cover-text {
+        width: 500px;
+        height: 350px;
+        border-radius: 10%;
+        left: 2%;
+        padding: 15px;
+    }
+
+    #preview-box div {
+        width: 400px;
+        height: 300px;
+        border-radius: 10%;
+    }
+
+    #history {
+        left: 4%;
+    }
+
+    #favorites {
+        top: 144%;
+        left: 4%;
+        right: 47%;
+    }
+}
 
