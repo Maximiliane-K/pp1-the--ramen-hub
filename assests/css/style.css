@@ -70,12 +70,12 @@ body {
 #cover-text {
     width: 700px;
     height: 300px;
-    padding: 20px;
+    padding: 27px;
     background-color: rgba(0, 0, 0, .8);
 
     text-align: center;
     top: 35%;
-    left: 30%;
+    left: 21%;
     position: absolute;
 }
 
@@ -104,33 +104,33 @@ body {
 #preview-box div {
     width: 300px;
     height: 300px;
-    padding: 3% 3%;
+    padding: 2% 2%;
     border-radius: 70%;
     background-color: rgba(0, 0, 0, .9);
     position: absolute;
     text-align: center;
 }
 
-#history {
+#favorites {
     display: inline-block;
     top: 90%;
     left: 20%;
 }
 
-#favorites {
+#contact {
     display: inline-block;
     top: 90%;
     right: 20%;
 }
 
-#history h3, #favorites h3 {
+#favorites h3, #contact h3 {
     font-size: medium;
     font-weight: 600;
-    margin: 10px;
+    margin: 36px;
     padding: 10px;
 }
 
-#history p, #favorites p {
+#favorites p, #contact p {
     font-size: small;
     font-weight: 400;
     line-height: 25px;
@@ -138,9 +138,10 @@ body {
     margin: 20px;
 }
 
-#history a, #favorites a {
+#favorites a, #contact a {
     width: 40px;
     height: 20px;
+    padding: 6px;
     color: white;
     font-weight: bold;
     background-color: red;
