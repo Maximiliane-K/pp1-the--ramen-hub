@@ -169,6 +169,17 @@ The languages used to create this website were HTML and CSS.
 * [Canva](#https://www.canva.com/create/logos/) was used to create the Logo. 
 * [Am I Responsive](#https://ui.dev/amiresponsive) was used to display the website on a range of devices.
 
+## **Deployment**
+This site was developed in the [Gitpod](https://www.gitpod.io/) IDE and deployed to GitHub Pages. During development the site was previewed in the browser through Port 8000 in Gitpod by running the command `python3 -m http.server` in the terminal.
+
+### Deploying to Github Pages:
+1. Once logged or signed into Github, find the repository to the project.
+2. Search for the *Settings* link and then click it.
+3. A navigation bar will open on the left. Search for the *Pages* link and click it. 
+4. In the *Source* section, choose *Deploy from a branch*.
+5. Under this section you will find *Branch*. Choose *Main* and *Root*.
+6. Click *Save* and your live Github Pages site will be deployed at the URL shown. 
+
 
 
 
