@@ -171,6 +171,15 @@ footer p {
     padding: 0.5%;
 }
 
+/* the ramen hubs favorite*/
+.cards {
+    margin: 10px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+
+
 /* form background-image*/
 
 .form-section {
@@ -178,14 +187,6 @@ footer p {
     background-size: cover;
     background-position: center;
     height: 800px;
-}
-
-/* the ramen hubs favorite*/
-
-.cards {
-    display: grid;
-    grid-template-columns: repeat (3, 200px);
-    grid-gap: 10px;
 }
 
 /*contact form*/
