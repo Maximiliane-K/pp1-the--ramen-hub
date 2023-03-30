@@ -23,6 +23,7 @@
     - [Contact ](#contact)
     - [Footer ](#footer)
 - [Future Features](#future-features)
+- [Deployment](#deployment)
 
 ## **Background**
  One of my great passions is traveling and I was lucky enough to be able to visit Tokyo. For foodies like me the city is culinary heaven but at the same time a real nightmare, when it comes to options.
