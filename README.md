@@ -37,7 +37,7 @@ The Scope of this project is creating a website with the HTML and CSS framework.
 
 ## **Wireframes**
 
-The Wireframes where created using Figma. Not all of the pages where developed for the time being and the structure was refactored during the process. The adtional Wireframes can be used for future Features.
+The Wireframes where created using Figma. Not all of the pages where developed for the time being and the structure was refactored during the process. The additional Wireframes can be used for future Features.
 
 Homepage:
 
