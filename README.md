@@ -78,7 +78,7 @@ Contact page:
 
 ![Contact page wireframe](documentation/wireframe/wireframe-contact.png)
 
-Wireframes for future development pages:
+### Wireframes for future page development:
 
 <details><summary>History page</summary>
 
@@ -89,8 +89,6 @@ Wireframes for future development pages:
 
 ![Michelin Starred page wireframe](documentation/wireframe/wireframe-michelin.png)
 </details>
-
-
 
 ## **Design Choices**
 **Color Palette**
@@ -151,6 +149,12 @@ The site is organized with cards. On each card you will find:
 
 -	Features social media links and Copyright.
 -	The footer can be found on the bottom of every page.
+
+**Future Features**
+
+-	Implement the *Michelin Starred Ramen* page as designed in the [Wireframe](#wireframes-for-future-page-development), to structure all the shops better and simplify the navigation for the user.
+
+-	Implement *The Ramen History* page as designed in the [Wireframe](#wireframes-for-future-page-development) to give the user more information about the dish. 
 
 
 
