@@ -188,7 +188,7 @@ footer p {
 .card img, iframe {
     width: 100%;
     display: block;
-    margin: 10px 0 10px 0;
+    margin: 15px 0 15px 0;
 }
 
 .card h1 {
@@ -199,7 +199,7 @@ footer p {
 
 .card p {
     color: black;
-    line-height: 1.5rem;
+    line-height: 1.7rem;
     text-align: center;
     margin: 5px 0;
 }
@@ -210,6 +210,10 @@ footer p {
     display: block;
     text-align: center;
     margin: 5px 0;
+}
+
+.card i:hover {
+    color: red;
 }
 
 
