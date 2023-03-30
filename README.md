@@ -15,6 +15,13 @@
     - [Color palette](#color-palette)
     - [Typography ](#typography)
     - [Images ](#images)
+- [Features](#features)
+    - [Logo](#logo)
+    - [Navigation Menu ](#navigation-menu)
+    - [Homepage ](#homepage)
+    - [The Ramen Hubs Favorites ](#the-ramen-hub-favorites)
+    - [Contact ](#contact)
+    - [Footer ](#footer)
 
 
 ## **Background**
@@ -96,6 +103,57 @@ The idea behind the color palette was reflecting the mood of a typical alley in 
 The Fonts used were Nunito Sans and Scada.
 
 **Images**
+
+## **Features**
+
+The website has three pages Home, The Ramen Hubs Favorites and Connect with us. All pages are accessible from the navigation menu. The Logo and Home both link to the landing page.
+
+**Logo**
+
+![Logo](documentation/screenshots/screenshot-logo.png)
+
+-	The logo features a bowl of Ramen with the website name under it.
+-	It appears in the site main colors being black and red to get in the mood of late-night Tokyo streets. 
+
+**Navigation Menu**
+
+![Navbar](documentation/screenshots/screenshot-navbar.png)
+
+-	The Navbar is at the top of every page to assure easy navigation throughout the different pages. 
+-	On the left the logo is placed which when clicked brings the user back to the landing page. 
+-	On the right you can find the links to the website pages. 
+
+**Homepage**
+
+-	The first thing the user will see is a Japanese word, it says welcome. 
+-	Under the welcome section you will find a short background story and what the the purpose of the site.
+-	The overview section is displayed as circles that give a short description of what can be expected from the following pages. 
+-	As background picture I chose an image of a street in Tokyo by night, which reflects the main site colors and mood. 
+
+**The Ramen Hubs Favorite Page**
+
+The site is organized with cards. On each card you will find:
+-	an image of the specialty Ramen 
+-	the name of the Ramen shop
+-	an icon that links to each Ramen shops own website
+-	the location on google maps
+
+**Contact Page**
+-	Features a heading describing what can be submitted with the form.
+-	Form features fields for users to enter their name and email address.
+-	A text-field in which the user can enter the name and location of their personal favorite Ramen shop.
+-	The user can submit their input by using the submit button.
+-	As background I chose an image of an elderly man eating Ramen. The colors in the image and the mood reflect the theme of the site.
+
+**Footer**
+
+![Navbar](documentation/screenshots/screenshot-footer.png)
+
+-	Features social media links and Copyright.
+-	The footer can be found on the bottom of every page.
+
+
+
 
 
 
