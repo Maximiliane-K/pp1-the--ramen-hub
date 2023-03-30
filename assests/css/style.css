@@ -288,8 +288,30 @@ textarea:hover {
 /* media queries*/
 
 /* home*/
-/* for larger to medium screen sizes from 1300px and down*/
-@media screen and (max-width: 1300px) {
+/* for larger to medium screen sizes from 1280px and down*/
+@media screen and (max-width: 1280px) {
+    #preview-box div {
+        width: 250px;
+        height: 250px;
+
+    }
+
+    #favorites h3, #contact h3 {
+        margin: 23px;
+        padding: 0;
+    }
+
+    #favorites p, #contact p {
+        margin: 4px;
+    }
+
+    #favorites a, #contact a {
+        padding: 0;
+    }
+}
+
+
+/* @media screen and (max-width: 1300px) {
     #cover-text {
         width: 500px;
         height: 300px;
@@ -312,7 +334,7 @@ textarea:hover {
 }
 
 /* for medium screen sizes from 950px wide and down*/
-@media screen and (max-width: 950px) {
+/*@media screen and (max-width: 950px) {
     #logo {
         width: 150px;
         height: 150px;
@@ -351,7 +373,7 @@ textarea:hover {
         left: 4%;
         right: 47%;
     }
-}
+}*/
 
 /*contact form media queries*/
 
