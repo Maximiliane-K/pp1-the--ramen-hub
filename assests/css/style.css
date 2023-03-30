@@ -171,7 +171,6 @@ footer p {
     padding: 0.5%;
 }
 
-/* the ramen hubs favorite*/
 .cards {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(450px, 1fr));
@@ -264,7 +263,7 @@ footer p {
 
 textarea {
     border-radius: 2px;
-    background-color: rgb(229, 224, 224, .9);
+    background-color: rgba(229, 224, 224, .9);
 }
 
 textarea:hover {
