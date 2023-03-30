@@ -192,6 +192,7 @@ footer p {
 }
 
 .card h1 {
+    text-transform: uppercase;
     margin: 5px 0;
     text-align: center;
 }
