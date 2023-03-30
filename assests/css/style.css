@@ -32,7 +32,6 @@ body {
     font-size: 18px;
     font-weight: 600;
     float: right;
-
 }
 
 #nav-bar, #logo {
@@ -61,6 +60,7 @@ body {
 /* background image*/
 .home-section {
     background: url('../images/background-image.webp');
+    background-color: black;
     background-size: cover;
     background-position: center;
     height: 1200px;
