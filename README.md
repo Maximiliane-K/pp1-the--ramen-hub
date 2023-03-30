@@ -156,6 +156,18 @@ The site is organized with cards. On each card you will find:
 
 -	Implement *The Ramen History* page as designed in the [Wireframe](#wireframes-for-future-page-development) to give the user more information about the dish. 
 
+## **Technologies Used**
+
+### **Languages**
+The languages used to create this website were HTML and CSS.
+
+### **Frameworks & Tools**
+* Figma was used for creating the wireframes. 
+* GitHub and Git were used as host plattform and version control.
+* Gitpod as IDE for writing and editing code.
+* Google Dev Tools were used to test features and support with the responsiveness and styling of the website.
+* [Canva](#https://www.canva.com/create/logos/) was used to create the Logo. 
+* [Am I Responsive](#https://ui.dev/amiresponsive) was used to display the website on a range of devices.
 
 
 
