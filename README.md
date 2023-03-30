@@ -40,15 +40,19 @@ The Scope of this project is creating a website with the HTML and CSS framework.
 The Wireframes where created using Figma. Not all of the pages where developed for the time being and the structure was refactored during the process. The adtional Wireframes can be used for future Features.
 
 Homepage:
+
 ![Homepage wireframe](documentation/wireframe/wireframe-home.png)
 
 Favorites page:
+
 ![Favorites page wireframe](documentation/wireframe/wireframe-favorites.png)
 
 Contact page:
+
 ![Contact page wireframe](documentation/wireframe/wireframe-contact.png)
 
 Wireframes for future development pages:
+
 <details><summary>History page</summary>
 
 ![History page wireframe](documentation/wireframe/wireframe-history.png)
