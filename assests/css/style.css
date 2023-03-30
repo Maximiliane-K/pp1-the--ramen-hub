@@ -185,10 +185,12 @@ footer p {
     padding: 15px;
 }
 
-.card img {
+.card img, iframe {
     width: 100%;
     display: block;
+    margin: 10px 0 10px 0;
 }
+
 
 /* form background-image*/
 
