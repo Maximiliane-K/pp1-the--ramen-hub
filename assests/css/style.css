@@ -180,6 +180,14 @@ footer p {
     height: 800px;
 }
 
+/* the ramen hubs favorite*/
+
+.cards {
+    display: grid;
+    grid-template-columns: repeat (3, 200px);
+    grid-gap: 10px;
+}
+
 /*contact form*/
 
 .contact-form {
