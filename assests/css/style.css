@@ -193,6 +193,14 @@ footer p {
 
 .card h1 {
     margin: 5px 0;
+    text-align: center;
+}
+
+.card p {
+    color: black;
+    line-height: 1.5rem;
+    text-align: center;
+    margin: 5px 0;
 }
 
 
