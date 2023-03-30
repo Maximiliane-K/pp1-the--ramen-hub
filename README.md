@@ -37,9 +37,42 @@ The Scope of this project is creating a website with the HTML and CSS framework.
 
 ## **Wireframes**
 
+The Wireframes where created using Figma. Not all of the pages where developed for the time being and the structure was refactored during the process. The adtional Wireframes can be used for future Features.
+
+Homepage:
+![Homepage wireframe](documentation/wireframe/wireframe-home.png)
+
+Favorites page:
+![Favorites page wireframe](documentation/wireframe/wireframe-favorites.png)
+
+Contact page:
+![Contact page wireframe](documentation/wireframe/wireframe-contact.png)
+
+Wireframes for future development pages:
+<details><summary>History page</summary>
+
+![History page wireframe](documentation/wireframe/wireframe-history.png)
+</details>
+
+<details><summary>Michelin Starred page</summary>
+
+![Michelin Starred page wireframe](documentation/wireframe/wireframe-michelin.png)
+</details>
+
+
+
 ## **Design Choices**
-### **Color Palette**
-The idea behind the color palette was reflecting the mood of a typical alley in Tokyo by night.  With red lights from lanterns reflecting on the dark street.  
+**Color Palette**
+
+The idea behind the color palette was reflecting the mood of a typical alley in Tokyo by night.  With red lights from lanterns reflecting on the dark street. 
+![Colour palette](documentation/design/the-ramen-hub-colors.png)
+
+**Typography**
+
+The Fonts user were Nunito Sans and Scada.
+
+**Images**
+
 
 
 
