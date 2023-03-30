@@ -204,6 +204,14 @@ footer p {
     margin: 5px 0;
 }
 
+.card i {
+    font-size: 1.2rem;
+    color: blue;
+    display: block;
+    text-align: center;
+    margin: 5px 0;
+}
+
 
 /* form background-image*/
 
