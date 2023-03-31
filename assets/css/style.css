@@ -302,10 +302,21 @@ textarea:hover {
         font-size: 20px;
         float: left;
         line-height: 0;
+    }
 
+    #cover-text h1 {
+        font-size: 62px;
+    }
+
+    #cover-text h2 {
+        font-size: 20px;
+    }
+
+    #cover-text p {
+        font-size: 12px;
+        margin: 20px;
     }
 }
-
 
 /* for medium screen sizes from 620px and down*/
 @media screen and (max-width: 620px) {
@@ -315,6 +326,28 @@ textarea:hover {
 
     #nav-bar li {
         margin: 13px;
+    }
+
+    .preview-box div {
+        padding: 10% 2%;
+        border-radius: 0;
+        border: 2px solid red;
+        height: 190px;
+    }
+
+    #favorites h3, #contact h3 {
+        padding: 3px;
+        margin: 3px;
+    }
+
+    #favorites p, #contact p {
+        margin: 5px;
+        line-height: 20px;
+    }
+
+    #favorites a, #contact a {
+        padding: 0;
+        border: 0px solid red;
     }
 }
 
@@ -338,6 +371,20 @@ textarea:hover {
     
     .submit {
         padding: 10px;
+    }
+
+    .preview-box div {
+        padding: 0;
+        height: 400px;
+        margin: 0 20px;
+    }
+
+    #favorites h3, #contact h3 {
+        margin: 20px;
+    }
+
+    #favorites p, #contact p {
+        margin: 15px;
     }
 }
     
