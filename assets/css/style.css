@@ -58,14 +58,18 @@ body {
 }
 
 /* background image*/
-.home-section {
-    background: url('../images/background-image.webp');
-    background-color: black;
-    background-size: cover;
-    background-position: center;
+#home-section {
     width: 100%;
+    padding-bottom: 70px;
+    background:
+    black
+    url('../images/background-image.webp')
+    center
+    no-repeat;
+    background-size: cover;
 }
 
+/* Code used for the flexbox*/
 .cover-text-container {
     display: flex;
     justify-content: center;
