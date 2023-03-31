@@ -293,7 +293,6 @@ textarea:hover {
     #preview-box div {
         width: 250px;
         height: 250px;
-
     }
 
     #favorites h3, #contact h3 {
@@ -310,6 +309,22 @@ textarea:hover {
     }
 }
 
+/* for medium sized screens from 768px and down*/
+@media screen and (max-width: 768px) {
+    #nav-bar {
+        line-height: 242px;
+        margin: 0;
+    }
+
+    #logo {
+        margin: 0;
+    }
+}
+
+/*for medium to small screen sizes from 960px and down*/
+@media screen and (max-width: 960px) {
+
+   
 /*contact form media queries*/
 
 /* for lager screen sizes from 1280px wide and down*/
@@ -318,8 +333,6 @@ textarea:hover {
         max-width: 370px;
         padding: 16px;
     }
-
-
 }
 
 /* for small screen sizes from 480px wide and down*/
