@@ -224,10 +224,14 @@ footer p {
 /* form background-image*/
 
 .form-section {
-    background: url('../images/man-eating-ramen.jpeg');
+    width: 100%;
+    padding-bottom: 850px;
+    background:
+    rgb(201, 103, 11)
+    url('../images/man-eating-ramen.jpeg')
+    center
+    no-repeat;
     background-size: cover;
-    background-position: center;
-    height: 800px;
 }
 
 /*contact form*/
