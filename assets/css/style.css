@@ -325,25 +325,31 @@ textarea:hover {
     }
 }
 
-/* for small screen sizes from 480px and down*/
-@media screen and (max-width: 480px) {
-
+/* for small screen sizes from 5500px and down*/
+@media screen and (max-width: 550px) {
+    .contact-form {
+        margin: 0px;
+        padding: 30px;
+        max-width: 290px;
+    }
+    
+    .contact-form h1 {
+        margin: 10px;
+        padding: 0;
+        font-size: 17px;
+    }
+    
+    .contact-form label {
+        font-size: 15px;
+    }
+    
+    .submit {
+        padding: 10px;
+    }
 }
     
 
 /* for small screen sizes until 320px*/
 @media screen and (max-width: 320px) {
-
-.contact-form {
-    margin: 2px;
-    padding: 6px;
-    max-width: 290px;
-}
-
-.contact-form h1 {
-    margin: 5px;
-    padding: 0;
-    font-size: 17px;
-}
 
 }
