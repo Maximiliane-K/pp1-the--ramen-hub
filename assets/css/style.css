@@ -293,91 +293,42 @@ textarea:hover {
 
 /* media queries*/
 
-/* home*/
-/* for larger to medium screen sizes from 1280px and down*/
-@media screen and (max-width: 1280px) {
-    #preview-box div {
-        width: 250px;
-        height: 250px;
-    }
-
-    #favorites h3, #contact h3 {
-        margin: 23px;
-        padding: 0;
-    }
-
-    #favorites p, #contact p {
-        margin: 4px;
-    }
-
-    #favorites a, #contact a {
-        padding: 0;
-    }
-}
-
-/* for medium sized screens from 768px and down*/
-@media screen and (max-width: 768px) {
-    #nav-bar {
-        line-height: 242px;
-        margin: 0;
-    }
-
+/* for medium screen sizes from 830px and down*/
+@media screen and (max-width: 830px) {
     #logo {
+        width: 150px;
+        height: 150px;
         margin: 0;
-    }
-}
-
-/*for medium to small screen sizes from 960px and down*/
-@media screen and (max-width: 960px) {
-
-   
-/*contact form media queries*/
-
-/* for lager screen sizes from 1280px wide and down*/
-@media screen and (max-width: 1280px) {
-    .contact-form {
-        max-width: 370px;
-        padding: 16px;
-    }
-}
-
-/* for small screen sizes from 480px wide and down*/
-@media screen and (max-width: 480px) {
-    #logo {
-        margin-left: 28%;
+        left: 0;
+        padding-left: 2px;
+        float: none;
     }
 
     #nav-bar {
-        font-size: 8px;
-        margin: 0;
-        padding: 0;
+        font-size: 20px;
+        float: left;
         line-height: 0;
-        
+
     }
-    .contact-form {
-    max-width: 239px;
-    margin: 10%;
-    padding: 5%;
-    top: 37%;
-    right: 0;
+}
+
+
+/* for medium screen sizes from 620px and down*/
+@media screen and (max-width: 620px) {
+    #nav-bar {
+        font-size: 17px;
     }
 
-    .contact-form h1 {
-    margin: 2px;
-    padding: 2px;
-    font-size: 15px;
+    #nav-bar li {
+        margin: 13px;
     }
+}
 
-    .contact-form label {
-        font-size: 14px;
-    }
+/* for small screen sizes from 480px and down*/
+@media screen and (max-width: 480px) 
+    
 
-    .text-input {
-        width: 95%;
-        margin-bottom: 5px;
-    }
+/* for small screen sizes until 320px*/
+@media screen and (max-width: 450px) {
 
-    textarea {
-        max-width: 95%;
-    }   
 }
