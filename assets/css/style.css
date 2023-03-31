@@ -174,7 +174,7 @@ footer p {
 
 /* Cards favorites-page*/
 /* Code used for grid https://wpengine.com/resources/card-layout-css-grid-layout-how-to/ */
-body {
+#favorites-body {
     width: 100%;
     padding-bottom: 10px;
     background-image: url('../images/ramen-bar.webp');
