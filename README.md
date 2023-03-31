@@ -1,6 +1,16 @@
 # **The Ramen Hub**
 
 ## **Code Institute Portfolio Project I**
+![Am I responsive screenshot](documentation/screenshots/am-i-responsive.png)
+
+## **Background**
+ One of my great passions is traveling and I was lucky enough to be able to visit Tokyo. 
+ 
+ For foodies like me the city is culinary heaven but at the same time a real nightmare, when it comes to options.
+
+I love Ramen and Tokyo has over 10 000 Ramen shops to choose from.  I have tried several different shops and wanted to share my favorites. Since there are so many different styles of Ramen, I tried to include a variety and of course the only two Ramen shops with Michelin Stars. 
+
+So, if you plan on visiting Tokyo, I hope *The Ramen Hub* will be helpful when making the choice of which restaurant to visit. 
 
 ## **Contents**
 
@@ -24,13 +34,7 @@
     - [Footer ](#footer)
 - [Future Features](#future-features)
 - [Deployment](#deployment)
-
-## **Background**
- One of my great passions is traveling and I was lucky enough to be able to visit Tokyo. For foodies like me the city is culinary heaven but at the same time a real nightmare, when it comes to options.
-
-I love Ramen and Tokyo has over 10 000 Ramen houses to choose from.  I have tried several different shops and wanted to share my favorites. Since there are so many different styles of Ramen, I tried to include a variety and of course the only two Ramen shops with Michelin Stars. 
-
-So, if you plan on visiting Tokyo, I hope *The Ramen Hub* will be helpful when making the choice of which restaurant to visit. 
+- [Development](#development)
 
 ## **Strategy**
 The idea behind *The Ramen Hub* is providing a site where travelers can find a handful of Ramen shops in Tokyo. Since the city is so huge and food is an essential part of the culture options seem endless, and all the information can be overwhelming. Travelers having difficulties with the mostly Japanese websites can find short descriptions in English that will give them a foretaste of the restaurants specialty Ramen.
@@ -179,7 +183,20 @@ This site was developed in the [Gitpod](https://www.gitpod.io/) IDE and deployed
 3. A navigation bar will open on the left. Search for the *Pages* link and click it. 
 4. In the *Source* section, choose *Deploy from a branch*.
 5. Under this section you will find *Branch*. Choose *Main* and *Root*.
-6. Click *Save* and your live Github Pages site will be deployed at the URL shown. 
+6. Click *Save* and your Github Pages site will be build. 
+7. Refresh the page to see the URL the site is deployed to. 
+
+## **Development**
+For local development the project repository can be found on GitHub.
+-	Log in or sign up to Github.
+-	Navigate to my GitHub profil, [Maximiliane-K](https://github.com/Maximiliane-K.).
+-	Locate the repository named “The Ramen Hub”.
+-	Click on the green *code* button and choose HTTPS, SSH or GitHubCLI and copy the preferred link. 
+-	Open the IDE of your choice and create a directory where the repository should be stored using the terminal. 
+-	Enter `git clone`, paste the copied URL and press enter.
+-	The repository will be cloned to the selected repository. 
+
+
 
 
 
