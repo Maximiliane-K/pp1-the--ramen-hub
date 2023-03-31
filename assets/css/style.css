@@ -54,7 +54,7 @@ body {
 }
 
 .active {
-    border-bottom: 3px solid rgb(229, 99, 99);
+    border-bottom: 3px solid red;
 }
 
 /* background image*/
@@ -241,10 +241,8 @@ footer p {
     background-color:  rgba(0, 0, 0, .8);
     max-width: 500px;
     padding: 30px;
-    position: absolute;
-    top: 20%;
-    right: 3%;
-    
+    position: relative;
+    float: right;
 }
 
 .contact-form h1 {
