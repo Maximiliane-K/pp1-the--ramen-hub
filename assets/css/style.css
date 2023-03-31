@@ -263,18 +263,10 @@ footer p {
     border-radius: 2px;
 }
 
-.text-input:hover {
-    border: 3px solid red;
-}
-
 textarea {
     border-radius: 2px;
     background-color: rgba(229, 224, 224, .9);
     max-width: 100%;
-}
-
-textarea:hover {
-    border: 3px solid red;
 }
 
 .submit {
