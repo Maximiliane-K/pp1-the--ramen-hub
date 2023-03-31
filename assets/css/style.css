@@ -63,63 +63,77 @@ body {
     background-color: black;
     background-size: cover;
     background-position: center;
-    height: 1200px;
+}
+
+.cover-text-container {
+    display: flex;
+    justify-content: center;
+    background-color: rgba(0, 0, 0, .8);
+    width: 100%;
+    text-align: center;
+    
+    
 }
 
 #cover-text {
-    width: 100%;
+   /* width: 100%;
     padding-bottom: 96px;
-    background-color: rgba(0, 0, 0, .8);
-    text-align: center;
-    top: 35%;
-    position: absolute;
+    background-color: rgba(0, 0, 0, .8);*/
+    /*text-align: center;
+    /*top: 35%;*/
+    /*position: absolute;*/
 }
 
 #cover-text h1 {
-    font-size: 80px;
+    font-size: 100px;
     font-weight: 900;
     text-transform: uppercase;
-    margin: 10px;
+    margin: 28px;
 }
 
 #cover-text h2 {
-    font-size: 20px;
+    font-size: 32px;
     font-weight: 600;
     text-transform: uppercase;
-    margin: 3px;
-    padding: 10px;
+    margin: 10px;
+    padding: 6px;
     line-height: 1.8em;
 }
 
 #cover-text p {
-    font-size: 18px;
+    font-size: 26px;
     font-weight: 200;
     color: white;
-    margin: 29px;
-    padding: 6;
+    margin: 80px;
+    padding: 10px;
 }
 
 /* preview-boxes*/
-#preview-box div {
-    width: 300px;
+.preview-box {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.preview-box div {
+   /* width: 300px;
     height: 300px;
     padding: 2% 2%;
     border-radius: 70%;
     background-color: rgba(0, 0, 0, .9);
     position: absolute;
-    text-align: center;
+    text-align: center;*/
 }
 
 #favorites {
-    display: inline-block;
+    /*display: inline-block;
     top: 90%;
-    left: 20%;
+    left: 20%;*/
 }
 
 #contact {
-    display: inline-block;
+    /*display: inline-block;
     top: 90%;
-    right: 20%;
+    right: 20%;*/
 }
 
 #favorites h3, #contact h3 {
@@ -133,7 +147,7 @@ body {
     font-size: small;
     font-weight: 400;
     line-height: 25px;
-    color: white;
+    color: black;
     margin: 20px;
 }
 
