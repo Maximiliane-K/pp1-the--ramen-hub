@@ -42,6 +42,12 @@ So, if you plan on visiting Tokyo, I hope *The Ramen Hub* will be helpful when m
         - [Returning user](#returning-user)
         - [Manuel testing](#manuel-testing)
     - [Validation](#validation)
+        - [Lighthouse](#lighthouse)
+- [Credits](#credits)
+    - [Code](#code)
+    - [Content](#content)
+    - [Images](#images)
+    - [Acknowledgments](#acknowledgments)
 
 ## **Strategy**
 The idea behind *The Ramen Hub* is providing a site where travelers can find a handful of Ramen shops in Tokyo. Since the city is so huge and food is an essential part of the culture options seem endless, and all the information can be overwhelming. Travelers having difficulties with the mostly Japanese websites can find short descriptions in English that will give them a foretaste of the restaurants specialty Ramen.
@@ -318,8 +324,39 @@ The exact location and directions are provided bei google maps.
 ### **Lighthouse**
 To test the performance, accessibility, best practices and SEO of the website, the Google developer tool Lighthouse was used. 
 
-* ![index.html](documentation/testing/lighthouse.index-html.png)
+* ![index.html](documentation/testing/lighthouse-index-html.png)
+* ![favorites.html](documentation/testing/lighthouse-favorites.png)
 * ![contact.html](documentation/testing/lighthouse-contact-html.png)
+
+## **Credits**
+
+**Code**
+* The Nav-bar and Footer where inspired by The Code Institutes Love Running project.
+* For the grid layout of the favorites-page the following code was used: 
+[CSS Grid Layout](https://wpengine.com/resources/card-layout-css-grid-layout-how-to/).
+*For the Flexbox on the landing-page the following code was used: [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/).
+
+**Content**
+
+For the text content on the favorites-page the following source were used for inspiration and facts: 
+
+ * https://guide.michelin.com/en/tokyo-region/tokyo/restaurant/sosakumenkobo-nakiryu
+ * https://guide.michelin.com/de/de/tokyo-region/tokyo/restaurant/sobahouse-konjikihototogisu
+ * https://jw-webmagazine.com/shinjuku-restaurant-guide-vol-11-fuunji-65bc1122c921/
+
+ The content on the page was written by Maximiliane Kaempffer. 
+
+ **Images**
+
+ * The background images on the website were obtained from [Pexels](https://www.pexels.com/de-de/).
+ * The images of the Ramen soups on the favorites-page are made by Maximiliane Kaempffer. 
+ * The Logo was created by me using a template on [Canva](https://www.canva.com/create/logos/).
+ * The Icons were obtained from [Font Awesome](https://fontawesome.com/v4/icons/).
+
+ **Acknowledgments**
+ I would like to say thank you to my Code Institue Mentor [Brian O'Hare](https://ie.linkedin.com/in/bjohare) for guiding me through my first own project. 
+
+
 
 
 
