@@ -338,7 +338,7 @@ To test the performance, accessibility, best practices and SEO of the website, t
 * ![favorites.html](documentation/testing/lighthouse-favorites.png)
 * ![contact.html](documentation/testing/lighthouse-contact-html.png)
 
-### **Accessibility**
+## **Accessibility**
 Keeping accessibility in mind during the development process I tried to make the site as accessible as possible to my abilities. I added alt attributes or aria-labels to all images. Whilst choosing the color-scheme I thought about the sufficiency of the color contrast. And by using the semantic web technology writing my HTML code. 
 
 ## **Credits**
