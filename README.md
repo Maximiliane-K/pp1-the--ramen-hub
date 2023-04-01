@@ -284,6 +284,18 @@ The exact location and directions are provided bei google maps.
 
 - Google developer tools were used to ensure that the site is responsive on different screen sizes.
 
+### **Validation**
+**W3C Validator**
+
+* [index.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmaximiliane-k.github.io%2Fthe-ramen-hub%2Findex.html) - no errors found
+
+![W3C html](documentation/testing/w3c-index-html.png)
+
+* [favorites.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmaximiliane-k.github.io%2Fthe-ramen-hub%2Findex.html) - no errors found
+
+![W3C html](documentation/testing/w3c-favorites-html.png)
+
+
 
 
     
