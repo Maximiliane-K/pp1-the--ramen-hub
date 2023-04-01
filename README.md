@@ -33,6 +33,7 @@ So if you plan on visiting Tokyo I hope *The Ramen Hub* will be helpful when mak
     - [Contact ](#contact)
     - [Footer ](#footer)
 - [Future Features](#future-features)
+- [Bugs and Challenges](#bugs-and-challenges)
 - [Deployment](#deployment)
 - [Development](#development)
 - [Testing](#testing)
@@ -182,8 +183,17 @@ The site is organized with cards. On each card you will find:
 - A sticky header would be a great addition if the registry of the Ramen shops grow to help users navigate the site more easily.
 - With a growing hub a pagination bar would be a nice feature to implement. 
 
+## **Bugs and Challenges**
 
+1.	The biggest challenge was making the nav-bar and the info-circles on the landing page responsive. 
 
+-	In the beginning the name of the favorites page was *The Ramen Hubs Favorites* and the contact page was named *Connect with us*. Unfortunately, the long text didn’t display nicely on small screens. They took up too much space, so the font needed to be extremly small which made it difficult to read the nav-bar. This is bad UX so I decided to shorten the length of the list items to make it visually more appealing. 
+
+-	Making the two circles responsive was quite a challenge since I first went the route of positioning them using left, right and top properties. I changed my approach and then used the Flexbox instead. This made the task way easier nevertheless getting the two circles responsive on the smallest screen size (320px) needed a lot of attention to detail. I decided to let them transition from circles, to one text-box separated by a red border and the last transition into two slim boxes. 
+
+2.	Another challenge was getting the background images positioned. 
+
+-	I started with giving the images fixed width and height attributes to fill out the space. When coming to the point of making them responsive this didn’t work, and the images were either not visible or cropped. I then changed my approach and used the property of width: 100% and padding-bottom. 
 
 ## **Technologies Used**
 
@@ -353,7 +363,7 @@ For the text content on the favorites-page the following source were used for in
  * The Icons were obtained from [Font Awesome](https://fontawesome.com/v4/icons/).
 
  **Acknowledgments**
- 
+
  I would like to say thank you to my Code Institue Mentor [Brian O'Hare](https://ie.linkedin.com/in/bjohare) for guiding me through my first own project. 
 
 
