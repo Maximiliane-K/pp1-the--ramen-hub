@@ -6,11 +6,11 @@
 ## **Background**
  One of my great passions is traveling and I was lucky enough to be able to visit Tokyo. 
  
- For foodies like me the city is culinary heaven but at the same time a real nightmare, when it comes to options.
+ For foodies like me the city is culinary heaven but at the same time a real nightmare when it comes to options.
 
-I love Ramen and Tokyo has over 10 000 Ramen shops to choose from.  I have tried several different shops and wanted to share my favorites. Since there are so many different styles of Ramen, I tried to include a variety and of course the only two Ramen shops with Michelin Stars. 
+I love Ramen and Tokyo has over 10 000 Ramen shops to choose from.  I have tried several different shops and wanted to share my favorites. Since there are so many different styles of Ramen I tried to include a variety of styles and of course the only two Ramen shops with Michelin Stars. 
 
-So, if you plan on visiting Tokyo, I hope *The Ramen Hub* will be helpful when making the choice of which restaurant to visit. 
+So if you plan on visiting Tokyo I hope *The Ramen Hub* will be helpful when making the choice of which restaurant to visit. 
 
 [The Ramen Hub on GitHub Pages](https://maximiliane-k.github.io/the-ramen-hub/index.html)
 ## **Contents**
@@ -25,7 +25,6 @@ So, if you plan on visiting Tokyo, I hope *The Ramen Hub* will be helpful when m
 - [Design Choices](#design-choices)
     - [Color palette](#color-palette)
     - [Typography ](#typography)
-    - [Images ](#images)
 - [Features](#features)
     - [Logo](#logo)
     - [Navigation Menu ](#navigation-menu)
@@ -50,7 +49,9 @@ So, if you plan on visiting Tokyo, I hope *The Ramen Hub* will be helpful when m
     - [Acknowledgments](#acknowledgments)
 
 ## **Strategy**
-The idea behind *The Ramen Hub* is providing a site where travelers can find a handful of Ramen shops in Tokyo. Since the city is so huge and food is an essential part of the culture options seem endless, and all the information can be overwhelming. Travelers having difficulties with the mostly Japanese websites can find short descriptions in English that will give them a foretaste of the restaurants specialty Ramen.
+The idea behind *The Ramen Hub* is providing a site where travelers can find a handful of Ramen shops in Tokyo. Since the city is so huge and food is an essential part of the culture options seem endless, and all the information found online can be overwhelming. 
+
+Travelers having difficulties with the mostly Japanese websites can find short descriptions in English that will give them a foretaste of the restaurants specialty Ramen.
 
 ## **Scope**
 The Scope of this project is creating a website with the HTML and CSS framework. Users can find a curated list of Ramen shops in Tokyo with English descriptions of the restaurants, the locations on google maps and are provided with the links to homepages of the shops. Users can also submit their own favorite Ramen shop to eventually grow The Ramen Hub. 
@@ -82,7 +83,7 @@ This site is aimed at anyone traveling to Tokyo who needs help with all the info
 
 ## **Wireframes**
 
-The Wireframes where created using Figma. Not all of the pages where developed for the time being and the structure was refactored during the process. The additional Wireframes can be used for future Features.
+The wireframes where created using Figma. Not all of the pages where developed for the time being and the structure was refactored during the process. The additional wireframes can be used for future features.
 
 Homepage:
 
@@ -111,50 +112,48 @@ Contact page:
 ## **Design Choices**
 **Color Palette**
 
-The idea behind the color palette was reflecting the mood of a typical alley in Tokyo by night.  With red lights from lanterns reflecting on the dark street. 
+The idea behind the color palette was reflecting the mood of a typical alley in Tokyo by night.  With red lights from lanterns and yellow lights from the street lanterns reflecting on the dark street. 
 ![Colour palette](documentation/design/the-ramen-hub-colors.png)
 
 **Typography**
 
-The Fonts used were Nunito Sans and Scada.
-
-**Images**
-The images used 
+The Font used is [Nunito Sans](https://fonts.google.com/specimen/Nunito+Sans). It's a sans serif typeface superfamily. The font reminded me of Tokyo, the feel is sleak and modern in it's basic style.
 
 ## **Features**
 
-The website has three pages Home, The Ramen Hubs Favorites and Connect with us. All pages are accessible from the navigation menu. The Logo and Home both link to the landing page.
+The website has three pages *Home*, *Favorites* and *Contact*. All pages are accessible from the navigation menu. The Logo and Home both link to the landing page.
 
 **Logo**
 
 ![Logo](documentation/screenshots/screenshot-logo.png)
 
--	The logo features a bowl of Ramen with the website name under it.
+-	The logo features a bowl of Ramen with the websites name, *The Ramen Hub*, under it.
 -	It appears in the site main colors being black and red to get in the mood of late-night Tokyo streets. 
+- The logo was created using Canva.com.
 
 **Navigation Menu**
 
 ![Navbar](documentation/screenshots/screenshot-nav-bar.png)
 
--	The Navbar is at the top of every page to assure easy navigation throughout the different pages. 
--	On the left the logo is placed which when clicked brings the user back to the landing page. 
+-	The Navbar is at the top of every page to assure easy navigation throughout the different sites. 
+-	The logo is placed on the left which when clicked brings the user back to the landing page. 
 -	On the right you can find the links to the website pages. 
 
 **Homepage**
 
 ![Home](documentation/screenshots/screenshot-home-page.png)
 
--	The first thing the user will see is a Japanese word, it says welcome. 
--	Under the welcome section you will find a short background story and what the the purpose of the site.
+-	On top of the page you see the word *welcome* in Japanese, followed by a shoprt welcome in English. 
+-	Under the welcome section you will find a short background story and the purpose of the site.
 -	The overview section is displayed as circles that give a short description of what can be expected from the following pages. 
 -	As background picture I chose an image of a street in Tokyo by night, which reflects the main site colors and mood. 
 
-**The Ramen Hubs Favorite Page**
+**Favorites Page**
 
-![Home](documentation/screenshots/screenshot-favorites-page.png)
+![Favorites](documentation/screenshots/screenshot-favorites-page.png)
 
 The site is organized with cards. On each card you will find:
--	an image of the specialty Ramen 
+-	an image of the specialty Ramen
 -	the name of the Ramen shop
 -	an icon that links to each Ramen shops own website
 -	the location on google maps
@@ -164,10 +163,10 @@ The site is organized with cards. On each card you will find:
 ![Home](documentation/screenshots/screenshot-contact-page.png)
 
 -	Features a heading describing what can be submitted with the form.
--	Form features fields for users to enter their name and email address.
+-	The form features fields for users to enter their name and email address.
 -	A text-field in which the user can enter the name and location of their personal favorite Ramen shop.
 -	The user can submit their input by using the submit button.
--	As background I chose an image of an elderly man eating Ramen. The colors in the image and the mood reflect the theme of the site.
+-	As background I chose an image of an elderly man eating Ramen. The colors in the image and the mood to me reflects the mood of the website.
 
 **Footer**
 
@@ -180,8 +179,8 @@ The site is organized with cards. On each card you will find:
 
 -	Implement the *Michelin Starred Ramen* page as designed in the [Wireframe](#wireframes-for-future-page-development), to structure all the shops better and simplify the navigation for the user.
 -	Implement *The Ramen History* page as designed in the [Wireframe](#wireframes-for-future-page-development) to give the user more information about the dish.
-- A sticky header would make sense if the registry of the Ramen shops grow.
-- With a growing hub a pagination would be a nice feature to implement. 
+- A sticky header would be a great addition if the registry of the Ramen shops grow to help users navigate the site more easily.
+- With a growing hub a pagination bar would be a nice feature to implement. 
 
 
 
@@ -270,9 +269,9 @@ Returning user:
 + *"I can visit the websites of the different spots to get more information."*
 
 This two user stories are covered by the description found on the Favorites pages. 
-These aim to help users get more in depth information about the style of Ramen servered. The user can decide before a trip which option suits their personal itinerary best and which speciality is served. 
+These aim to help users get more in depth information about the style of Ramen servered. The user can decide before a trip which option suits their personal itinerary best and which Ramen speciality is served. 
 
-The User can get more information by visiting the website of the preferred Ramen shop linked under the description. 
+The user can get more information by visiting the website of the preferred Ramen shop linked under the description. 
 
 The exact location and directions are provided bei google maps. 
 
@@ -296,7 +295,7 @@ The exact location and directions are provided bei google maps.
 3. Responsiveness:
 - To ensure that the website is responsive I tested it on several devices.
     * MacBook Pro 16"
-    * Dell Ultra Sharp Monitor curved 34"
+    * Dell Monitor 23.8"
     * Samsung Galaxy S22
     * Samsung Galaxy Tab S4
 
@@ -334,7 +333,7 @@ To test the performance, accessibility, best practices and SEO of the website, t
 * The Nav-bar and Footer where inspired by The Code Institutes Love Running project.
 * For the grid layout of the favorites-page the following code was used: 
 [CSS Grid Layout](https://wpengine.com/resources/card-layout-css-grid-layout-how-to/).
-*For the Flexbox on the landing-page the following code was used: [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/).
+* For the Flexbox on the landing-page the following code was used: [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/).
 
 **Content**
 
@@ -350,10 +349,11 @@ For the text content on the favorites-page the following source were used for in
 
  * The background images on the website were obtained from [Pexels](https://www.pexels.com/de-de/).
  * The images of the Ramen soups on the favorites-page are made by Maximiliane Kaempffer. 
- * The Logo was created by me using a template on [Canva](https://www.canva.com/create/logos/).
+ * The Logo was created by Maximiliane Kaempffer using a template on [Canva](https://www.canva.com/create/logos/).
  * The Icons were obtained from [Font Awesome](https://fontawesome.com/v4/icons/).
 
  **Acknowledgments**
+ 
  I would like to say thank you to my Code Institue Mentor [Brian O'Hare](https://ie.linkedin.com/in/bjohare) for guiding me through my first own project. 
 
 
