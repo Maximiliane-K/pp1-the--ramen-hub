@@ -12,6 +12,7 @@ I love Ramen and Tokyo has over 10 000 Ramen shops to choose from.  I have tried
 
 So, if you plan on visiting Tokyo, I hope *The Ramen Hub* will be helpful when making the choice of which restaurant to visit. 
 
+[The Ramen Hub on GitHub Pages](https://maximiliane-k.github.io/the-ramen-hub/index.html)
 ## **Contents**
 
 - [Background](#background)
