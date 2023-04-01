@@ -266,7 +266,7 @@ The exact location and directions are provided bei google maps.
     * All external links worked as expected and opened in seperate browser tab. 
     * All images are displayed as expected.  
 
-2. Functionality 
+2. Functionality:
 - The form was tested and worked as expected.
     * The user is asked to fill in a name, email address and text to be able to submit the form.
     * The form can only be submitted when all required text-input fields are filled.
@@ -275,7 +275,7 @@ The exact location and directions are provided bei google maps.
     * The iframes are being displayed correctly and are interactive.
     * The iframes open in a seperate browser when clicking on the address. 
 
-3. Responsiveness
+3. Responsiveness:
 - To ensure that the website is responsive I tested it on several devices.
     * MacBook Pro 16"
     * Dell Ultra Sharp Monitor curved 34"
