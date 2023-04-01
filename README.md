@@ -18,7 +18,7 @@ So if you plan on visiting Tokyo I hope *The Ramen Hub* will be helpful when mak
 - [Background](#background)
 - [Strategy](#strategy)
 - [Scope](#scope)
-- [User Experience](#user-experience)
+- [User Experience UX](#user-experience)
     - [Target audiance](#target-audience)
     - [User Stories](#user-stories)
 - [Wireframes](#wireframes)
