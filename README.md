@@ -19,37 +19,37 @@ So if you plan on visiting Tokyo I hope *The Ramen Hub* will be helpful when mak
 * [Strategy](#strategy)
 * [Scope](#scope)
 * [User Experience UX](#user-experience-ux)
- * [Target audience](#target-audience)
- * [User Stories](#user-stories)
+    * [Target audience](#target-audience)
+    * [User Stories](#user-stories)
 * [Wireframes](#wireframes)
 * [Design Choices](#design-choices)
-  * [Color Palette](#color-palette)
-  * [Typography](#typography)
+    * [Color Palette](#color-palette)
+    * [Typography](#typography)
 * [Features](#features)
- * [Logo](#logo)
- * [Navigation Menu ](#navigation-menu)
- * [Homepage ](#homepage)
- * [The Ramen Hubs Favorites ](#the-ramen-hub-favorites)
- * [Contact ](#contact)
- * [Footer ](#footer)
- * [Future Features](#future-features)
+    * [Logo](#logo)
+    * [Navigation Menu ](#navigation-menu)
+    * [Homepage ](#homepage)
+    * [The Ramen Hubs Favorites ](#the-ramen-hub-favorites)
+    * [Contact ](#contact)
+    * [Footer ](#footer)
+    * [Future Features](#future-features)
 * [Bugs and Challenges](#bugs-and-challenges)
 * [Technologies Used](#technologies-used)
 * [Deployment](#deployment)
 * [Development](#development)
 * [Testing](#testing)
- * [User Stories](#user-stories)
-  * [First time user](#first-time-user)
-  * [Returning user](#returning-user)
-  * [Manuel testing](#manuel-testing)
-  * [Validation](#validation)
-   * [Lighthouse](#lighthouse)
-  * [Accessibility](#accessibility)
+    * [User Stories](#user-stories)
+    * [First time user](#first-time-user)
+    * [Returning user](#returning-user)
+    * [Manuel testing](#manuel-testing)
+* [Validation](#validation)
+* [Lighthouse](#lighthouse)
+    * [Accessibility](#accessibility)
 * [Credits](#credits)
-  * [Code](#code)
-  * [Content](#content)
-  * [Images](#images)
-  * [Acknowledgments](#acknowledgments)
+    * [Code](#code)
+    * [Content](#content)
+    * [Images](#images)
+    * [Acknowledgments](#acknowledgments)
 
 ## **Strategy**
 The idea behind *The Ramen Hub* is providing a site where travelers can find a handful of Ramen shops in Tokyo. Since the city is so huge and food is an essential part of the culture options seem endless, and all the information found online can be overwhelming. 
@@ -61,11 +61,11 @@ The Scope of this project is creating a website with the HTML and CSS framework.
 
 ## **User Experience UX**
 
-**Target Audience**
+### **Target Audience**
 
 This site is aimed at anyone traveling to Tokyo who needs help with all the information online and the options given surrounding Ramen. 
 
-**User Stories**
+### **User Stories**
 
 - As a First Time User
     - I can navigate through the site to find the information I need. 
@@ -126,7 +126,7 @@ The Font used is [Nunito Sans](https://fonts.google.com/specimen/Nunito+Sans). I
 
 The website has three pages *Home*, *Favorites* and *Contact*. All pages are accessible from the navigation menu. The Logo and Home both link to the landing page.
 
-**Logo**
+### **Logo**
 
 ![Logo](documentation/screenshots/screenshot-logo.png)
 
@@ -134,7 +134,7 @@ The website has three pages *Home*, *Favorites* and *Contact*. All pages are acc
 -	It appears in the site main colors being black and red to get in the mood of late-night Tokyo streets. 
 - The logo was created using Canva.com.
 
-**Navigation Menu**
+### **Navigation Menu**
 
 ![Navbar](documentation/screenshots/screenshot-nav-bar.png)
 
@@ -142,7 +142,7 @@ The website has three pages *Home*, *Favorites* and *Contact*. All pages are acc
 -	The logo is placed on the left which when clicked brings the user back to the landing page. 
 -	On the right you can find the links to the website pages. 
 
-**Homepage**
+### **Homepage**
 
 ![Home](documentation/screenshots/screenshot-home-page.png)
 
@@ -151,7 +151,7 @@ The website has three pages *Home*, *Favorites* and *Contact*. All pages are acc
 -	The overview section is displayed as circles that give a short description of what can be expected from the following pages. 
 -	As background picture I chose an image of a street in Tokyo by night, which reflects the main site colors and mood. 
 
-**Favorites Page**
+### **Favorites Page**
 
 ![Favorites](documentation/screenshots/screenshot-favorites-page.png)
 
@@ -161,7 +161,7 @@ The site is organized with cards. On each card you will find:
 -	an icon that links to each Ramen shops own website
 -	the location on google maps
 
-**Contact Page**
+### **Contact Page**
 
 ![Home](documentation/screenshots/screenshot-contact-page.png)
 
@@ -171,14 +171,14 @@ The site is organized with cards. On each card you will find:
 -	The user can submit their input by using the submit button.
 -	As background I chose an image of an elderly man eating Ramen. The colors in the image and the mood to me reflects the mood of the website.
 
-**Footer**
+### **Footer**
 
 ![Navbar](documentation/screenshots/screenshot-footer.png)
 
 -	Features social media links and Copyright.
 -	The footer can be found on the bottom of every page.
 
-**Future Features**
+### **Future Features**
 
 -	Implement the *Michelin Starred Ramen* page as designed in the [Wireframe](#wireframes-for-future-page-development), to structure all the shops better and simplify the navigation for the user.
 -	Implement *The Ramen History* page as designed in the [Wireframe](#wireframes-for-future-page-development) to give the user more information about the dish.
@@ -344,13 +344,13 @@ Keeping accessibility in mind during the development process I tried to make the
 
 ## **Credits**
 
-**Code**
+### **Code**
 * The Nav-bar and Footer where inspired by The Code Institutes Love Running project.
 * For the grid layout of the favorites-page the following code was used: 
 [CSS Grid Layout](https://wpengine.com/resources/card-layout-css-grid-layout-how-to/).
 * For the Flexbox on the landing-page the following code was used: [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/).
 
-**Content**
+### **Content**
 
 For the text content on the favorites-page the following source were used for inspiration and facts: 
 
@@ -363,14 +363,14 @@ For the text content on the favorites-page the following source were used for in
 
  The content on the page was written by Maximiliane Kaempffer. 
 
- **Images**
+ ### **Images**
 
  * The background images on the website were obtained from [Pexels](https://www.pexels.com/de-de/).
  * The images of the Ramen soups on the favorites-page are made by Maximiliane Kaempffer. 
  * The Logo was created by Maximiliane Kaempffer using a template on [Canva](https://www.canva.com/create/logos/).
  * The Icons were obtained from [Font Awesome](https://fontawesome.com/v4/icons/).
 
- **Acknowledgments**
+ ### **Acknowledgments**
 
  I would like to say thank you to my Code Institue Mentor [Brian O'Hare](https://ie.linkedin.com/in/bjohare) for guiding me through my first own project. 
 
