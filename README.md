@@ -39,6 +39,7 @@ So, if you plan on visiting Tokyo, I hope *The Ramen Hub* will be helpful when m
     - [User Stories](#user-stories)
         - [First time user](#first-time-user)
         - [Returning user](#returning-user)
+        - [Manuel testing](#manuel-testing)
 
 
 ## **Strategy**
@@ -255,6 +256,36 @@ These aim to help users get more in depth information about the style of Ramen s
 The User can get more information by visiting the website of the preferred Ramen shop linked under the description. 
 
 The exact location and directions are provided bei google maps. 
+
+**Manuel Testing**
+1. Cross Browser Compatibility: 
+- The website was tested in the browsers of Google Chrome, Safari and Mozzila Firefox. I tested every link and checked if the images where correctly displayed.
+     
+    * All links on the site worked as expected.
+    * All external links worked as expected and opened in seperate browser tab. 
+    * All images are displayed as expected.  
+
+2. Functionality 
+- The form was tested and worked as expected.
+    * The user is asked to fill in a name, email address and text to be able to submit the form.
+    * The form can only be submitted when all required text-input fields are filled.
+
+- The iframes were tested.
+    * The iframes are being displayed correctly and are interactive.
+    * The iframes open in a seperate browser when clicking on the address. 
+
+3. Responsiveness
+- To ensure that the website is responsive I tested it on several devices.
+    * MacBook Pro 16"
+    * Dell Ultra Sharp Monitor curved 34"
+    * Samsung Galaxy S22
+    * Samsung Galaxy Tab S4
+
+- Google developer tools were used to ensure that the site is responsive on different screen sizes.
+    
+   
+
+    
 
 
 
