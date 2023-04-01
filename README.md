@@ -204,7 +204,7 @@ For local development the project repository can be found on GitHub.
 -	The repository will be cloned to the selected repository. 
 
 ## **Testing**
-**User Stories**
+### **User Stories**
 
 First time user:
 
@@ -258,7 +258,7 @@ The User can get more information by visiting the website of the preferred Ramen
 
 The exact location and directions are provided bei google maps. 
 
-**Manuel Testing**
+### **Manuel Testing**
 1. Cross Browser Compatibility: 
 - The website was tested in the browsers of Google Chrome, Safari and Mozzila Firefox. I tested every link and checked if the images where correctly displayed.
      
@@ -283,6 +283,9 @@ The exact location and directions are provided bei google maps.
     * Samsung Galaxy Tab S4
 
 - Google developer tools were used to ensure that the site is responsive on different screen sizes.
+
+
+
     
    
 
