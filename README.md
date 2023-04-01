@@ -35,6 +35,9 @@ So, if you plan on visiting Tokyo, I hope *The Ramen Hub* will be helpful when m
 - [Future Features](#future-features)
 - [Deployment](#deployment)
 - [Development](#development)
+- [Testing](#testing)
+    - [User Stories](#user-stories)
+
 
 ## **Strategy**
 The idea behind *The Ramen Hub* is providing a site where travelers can find a handful of Ramen shops in Tokyo. Since the city is so huge and food is an essential part of the culture options seem endless, and all the information can be overwhelming. Travelers having difficulties with the mostly Japanese websites can find short descriptions in English that will give them a foretaste of the restaurants specialty Ramen.
