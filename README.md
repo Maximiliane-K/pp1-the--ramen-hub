@@ -356,6 +356,9 @@ For the text content on the favorites-page the following source were used for in
  * https://guide.michelin.com/en/tokyo-region/tokyo/restaurant/sosakumenkobo-nakiryu
  * https://guide.michelin.com/de/de/tokyo-region/tokyo/restaurant/sobahouse-konjikihototogisu
  * https://jw-webmagazine.com/shinjuku-restaurant-guide-vol-11-fuunji-65bc1122c921/
+ * http://www.fu-unji.com/index.html
+ * https://en.ichiran.com/ramen/
+ * https://www.ramenings.com/hayashida
 
  The content on the page was written by Maximiliane Kaempffer. 
 
