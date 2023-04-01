@@ -1,7 +1,7 @@
 # **The Ramen Hub**
 
 ## **Code Institute Portfolio Project I**
-![Am I responsive screenshot](documentation/screenshots/am-i-responsive.png)
+![Am I responsive screenshot](documentation/screenshots/screenshot-am-i-responsive.png)
 
 ## **Background**
  One of my great passions is traveling and I was lucky enough to be able to visit Tokyo. 
@@ -123,7 +123,7 @@ The website has three pages Home, The Ramen Hubs Favorites and Connect with us. 
 
 **Navigation Menu**
 
-![Navbar](documentation/screenshots/screenshot-navbar.png)
+![Navbar](documentation/screenshots/screenshot-nav-bar.png)
 
 -	The Navbar is at the top of every page to assure easy navigation throughout the different pages. 
 -	On the left the logo is placed which when clicked brings the user back to the landing page. 
@@ -215,14 +215,14 @@ First time users:
  2. "I can find out more about The Ramen Hub and the idea behind it."
 
  On the landing page the user will find a short description of the idea and inspiration behind the website right after the welcome. 
- ![Landing page welcome](documentation/testing/welcome-text.png)
+ ![Landing page welcome](documentation/testing/testing-welcome-text.png)
 
 3. "I can find links to the websites of the listed Ramen shops."
 
 The user is able to find the links on the Favorites page. After providing the user with an image and basic information about the ramen shop, the link to the websites of the Ramen shops are provided via an icon. 
 
 All external links work. 
-![Ramen shop card on favorites page](documentation/testing/ramen-shop-card.png)
+![Ramen shop card on favorites page](documentation/testing/testing-ramen-card.png)
 
 4. "I can find the locations to the listed Ramen shops."
 
@@ -230,7 +230,7 @@ The locations of the listed Ramen shops are build into the cards on the Favorite
 
 All iframes work.
 
-![Iframe](documentation/testing/iframe-ramen-card.png)
+![Iframe](documentation/testing/testing-iframe.png)
 
 5. "I can submit the name and location of my favorite Ramen restaurant."
 
@@ -238,7 +238,7 @@ The user can submit his own personal favorite Ramen spot if he wishes. He can do
 
 The form works and sends the information to the Code Institutes formdump. 
 
-![Contact form](documentation/testing/contact-form.png)
+![Contact form](documentation/testing/testing-contact-form.png)
 
 
 
