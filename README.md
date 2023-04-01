@@ -37,6 +37,8 @@ So, if you plan on visiting Tokyo, I hope *The Ramen Hub* will be helpful when m
 - [Development](#development)
 - [Testing](#testing)
     - [User Stories](#user-stories)
+        - [First time user](#first-time-user)
+        - [Returning user](#returning-user)
 
 
 ## **Strategy**
@@ -201,9 +203,10 @@ For local development the project repository can be found on GitHub.
 
 ## **Testing**
 **User Stories**
-First time users:
 
-1. "I can navigate through the site to find the information I need."
+First time user:
+
+1. *"I can navigate through the site to find the information I need."*
 
  This is being ensured with giving the user different options of navigation through out the site. 
  
@@ -212,19 +215,19 @@ First time users:
  All navigation links on the nav-bar and throughout the site work. 
  ![Landing page navigation](documentation/testing/testing-nav-bar.png)
 
- 2. "I can find out more about The Ramen Hub and the idea behind it."
+ 2. *"I can find out more about The Ramen Hub and the idea behind it."*
 
  On the landing page the user will find a short description of the idea and inspiration behind the website right after the welcome. 
  ![Landing page welcome](documentation/testing/testing-welcome-text.png)
 
-3. "I can find links to the websites of the listed Ramen shops."
+3. *"I can find links to the websites of the listed Ramen shops."*
 
 The user is able to find the links on the Favorites page. After providing the user with an image and basic information about the ramen shop, the link to the websites of the Ramen shops are provided via an icon. 
 
 All external links work. 
 ![Ramen shop card on favorites page](documentation/testing/testing-ramen-card.png)
 
-4. "I can find the locations to the listed Ramen shops."
+4. *"I can find the locations to the listed Ramen shops."*
 
 The locations of the listed Ramen shops are build into the cards on the Favorites page via iframe. 
 
@@ -232,13 +235,26 @@ All iframes work.
 
 ![Iframe](documentation/testing/testing-iframe.png)
 
-5. "I can submit the name and location of my favorite Ramen restaurant."
+5. *"I can submit the name and location of my favorite Ramen restaurant."*
 
 The user can submit his own personal favorite Ramen spot if he wishes. He can do this on the contact page via a form. 
 
 The form works and sends the information to the Code Institutes formdump. 
 
 ![Contact form](documentation/testing/testing-contact-form.png)
+
+Returning user:
+
++ *"I can use the site as a guide when planning on visiting Tokyo."*
+
++ *"I can visit the websites of the different spots to get more information."*
+
+This two user stories are covered by the description found on the Favorites pages. 
+These aim to help users get more in depth information about the style of Ramen servered. The user can decide before a trip which option suits their personal itinerary best and which speciality is served. 
+
+The User can get more information by visiting the website of the preferred Ramen shop linked under the description. 
+
+The exact location and directions are provided bei google maps. 
 
 
 
