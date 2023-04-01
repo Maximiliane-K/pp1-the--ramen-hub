@@ -113,6 +113,7 @@ The idea behind the color palette was reflecting the mood of a typical alley in 
 The Fonts used were Nunito Sans and Scada.
 
 **Images**
+The images used 
 
 ## **Features**
 
@@ -135,12 +136,16 @@ The website has three pages Home, The Ramen Hubs Favorites and Connect with us. 
 
 **Homepage**
 
+![Home](documentation/screenshots/screenshot-home-page.png)
+
 -	The first thing the user will see is a Japanese word, it says welcome. 
 -	Under the welcome section you will find a short background story and what the the purpose of the site.
 -	The overview section is displayed as circles that give a short description of what can be expected from the following pages. 
 -	As background picture I chose an image of a street in Tokyo by night, which reflects the main site colors and mood. 
 
 **The Ramen Hubs Favorite Page**
+
+![Home](documentation/screenshots/screenshot-favorites-page.png)
 
 The site is organized with cards. On each card you will find:
 -	an image of the specialty Ramen 
@@ -149,6 +154,9 @@ The site is organized with cards. On each card you will find:
 -	the location on google maps
 
 **Contact Page**
+
+![Home](documentation/screenshots/screenshot-contact-page.png)
+
 -	Features a heading describing what can be submitted with the form.
 -	Form features fields for users to enter their name and email address.
 -	A text-field in which the user can enter the name and location of their personal favorite Ramen shop.
@@ -165,8 +173,12 @@ The site is organized with cards. On each card you will find:
 **Future Features**
 
 -	Implement the *Michelin Starred Ramen* page as designed in the [Wireframe](#wireframes-for-future-page-development), to structure all the shops better and simplify the navigation for the user.
+-	Implement *The Ramen History* page as designed in the [Wireframe](#wireframes-for-future-page-development) to give the user more information about the dish.
+- A sticky header would make sense if the registry of the Ramen shops grow.
+- With a growing hub a pagination would be a nice feature to implement. 
 
--	Implement *The Ramen History* page as designed in the [Wireframe](#wireframes-for-future-page-development) to give the user more information about the dish. 
+
+
 
 ## **Technologies Used**
 
@@ -303,6 +315,11 @@ The exact location and directions are provided bei google maps.
 
 ![W3C html](documentation/testing/w3c-style-css.png)
 
+### **Lighthouse**
+To test the performance, accessibility, best practices and SEO of the website, the Google developer tool Lighthouse was used. 
+
+* ![index.html](documentation/testing/lighthouse.index-html.png)
+* ![contact.html](documentation/testing/lighthouse-contact-html.png)
 
 
 
