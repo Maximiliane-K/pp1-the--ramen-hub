@@ -196,6 +196,49 @@ For local development the project repository can be found on GitHub.
 -	Enter `git clone`, paste the copied URL and press enter.
 -	The repository will be cloned to the selected repository. 
 
+## **Testing**
+**User Stories**
+First time users:
+
+1. "I can navigate through the site to find the information I need."
+
+ This is being ensured with giving the user different options of navigation through out the site. 
+ 
+ The nav-bar links to all the pages and on the landing page there are two info-circles which link directly to the sections they explain. Also the logo serveres as a home-button so the user can easly come back to the landing page. 
+ 
+ All navigation links on the nav-bar and throughout the site work. 
+ ![Landing page navigation](documentation/testing/testing-nav-bar.png)
+
+ 2. "I can find out more about The Ramen Hub and the idea behind it."
+
+ On the landing page the user will find a short description of the idea and inspiration behind the website right after the welcome. 
+ ![Landing page welcome](documentation/testing/welcome-text.png)
+
+3. "I can find links to the websites of the listed Ramen shops."
+
+The user is able to find the links on the Favorites page. After providing the user with an image and basic information about the ramen shop, the link to the websites of the Ramen shops are provided via an icon. 
+
+All external links work. 
+![Ramen shop card on favorites page](documentation/testing/ramen-shop-card.png)
+
+4. "I can find the locations to the listed Ramen shops."
+
+The locations of the listed Ramen shops are build into the cards on the Favorites page via iframe. 
+
+All iframes work.
+
+![Iframe](documentation/testing/iframe-ramen-card.png)
+
+5. "I can submit the name and location of my favorite Ramen restaurant."
+
+The user can submit his own personal favorite Ramen spot if he wishes. He can do this on the contact page via a form. 
+
+The form works and sends the information to the Code Institutes formdump. 
+
+![Contact form](documentation/testing/contact-form.png)
+
+
+
 
 
 
