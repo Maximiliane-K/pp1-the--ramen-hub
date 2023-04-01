@@ -41,7 +41,7 @@ So, if you plan on visiting Tokyo, I hope *The Ramen Hub* will be helpful when m
         - [First time user](#first-time-user)
         - [Returning user](#returning-user)
         - [Manuel testing](#manuel-testing)
-
+    - [Validation](#validation)
 
 ## **Strategy**
 The idea behind *The Ramen Hub* is providing a site where travelers can find a handful of Ramen shops in Tokyo. Since the city is so huge and food is an essential part of the culture options seem endless, and all the information can be overwhelming. Travelers having difficulties with the mostly Japanese websites can find short descriptions in English that will give them a foretaste of the restaurants specialty Ramen.
@@ -294,6 +294,14 @@ The exact location and directions are provided bei google maps.
 * [favorites.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmaximiliane-k.github.io%2Fthe-ramen-hub%2Findex.html) - no errors found
 
 ![W3C html](documentation/testing/w3c-favorites-html.png)
+
+* [contact.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmaximiliane-k.github.io%2Fthe-ramen-hub%2Findex.html) - no errors found
+
+![W3C html](documentation/testing/w3c-contact-html.png)
+
+* [style.css](hhttps://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fmaximiliane-k.github.io%2Fthe-ramen-hub%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=de) - no errors found
+
+![W3C html](documentation/testing/w3c-style-css.png)
 
 
 
